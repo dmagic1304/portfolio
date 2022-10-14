@@ -59,3 +59,15 @@
   font-style: oblique;
 }
 
+.main {
+  margin-top: 30px;
+}
+
+.main h1 {
+  text-align: center;
+}
+
+.main p {
+  text-align: center;
+}
+
