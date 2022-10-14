@@ -9,19 +9,21 @@
   background-color: darkblue;
   border: 1px solid black;
   width: 100%;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
+  box-shadow: 5px 5px 40px 20px darkblue;
 }
 
 .header-name {
-  box-sizing: border-box;
-  border: 1px groove black;
-  width: 35%;
+  box-sizing: border-box;  
+  width: 20%;
   float: left;
   margin-top: 10px;
   margin-left: 10px;
   padding-top: 10px;
   padding-left: 10px;
-  background-color: aqua;
+  background-color: rgb(109, 221, 244);
+  border-radius: 20%;
+  box-shadow: 5px 5px 40px 3px aqua;
 
 }
 
@@ -49,14 +51,14 @@
   display: inline-block;
   font-size: 20px;
   margin-left: 20px;
-  border: 1px solid black;
+  border: 1px solid rgb(255, 255, 255);
   border-radius: 20%;
   padding: 5px;
 }
 
 .header-nav a {
   text-decoration: none;
-  color: black;
+  color: rgb(255, 255, 255);
   font-style: oblique;
 }
 
@@ -111,6 +113,9 @@
   margin-right: 50px;
 }
 
+.about-main h4 {
+  margin-top: 40px;
+}
 
 .hobbies {
   display: block;
@@ -118,10 +123,6 @@
 
 .hobbies h3 {
   margin-top: 150px;
-}
-
-h4 {
-  margin-top: 40px;
 }
 
 .img-thumbnail {
