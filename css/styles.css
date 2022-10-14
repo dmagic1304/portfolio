@@ -3,6 +3,8 @@
   padding: 0;
 }
 
+
+
 .header-name {
   box-sizing: border-box;
   display: block;
@@ -20,13 +22,23 @@
   box-sizing: border-box;
   float: right;
   padding-top: 10px;
-  padding-right: 10px;
+  padding-right: 10px;  
 }
 
 .header-nav ul {
   list-style: none;
+  size: 50px;
 }
 
 .header-nav ul li {
   display: inline-block;
+  font-size: 20px;
+  margin-left: 20px;
+  border: 1px solid black;
+  border-radius: 20%;
+  padding: 5px;
+}
+
+.header-nav a {
+  text-decoration: none;
 }
