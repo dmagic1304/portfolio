@@ -3,11 +3,16 @@
   padding: 0;
 }
 
-
+.header {
+  display: inline-block;
+  box-sizing: content-box;
+  background-color: darkblue;
+  border: 1px solid black;
+  width: 100vw;
+}
 
 .header-name {
   box-sizing: border-box;
-  display: block;
   border: 1px groove black;
   width: 35%;
   float: left;
@@ -15,7 +20,16 @@
   margin-left: 10px;
   padding-top: 10px;
   padding-left: 10px;
+  background-color: aqua;
 
+}
+
+.header-name h1 {
+  font-family: cursive;
+}
+
+.header-name h2 {
+  font-family: 'Indie Flower', cursive;
 }
 
 .header-nav {
@@ -41,4 +55,7 @@
 
 .header-nav a {
   text-decoration: none;
+  color: black;
+  font-style: oblique;
 }
+
