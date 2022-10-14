@@ -84,8 +84,19 @@
 
 .card-body p {
   text-align: justify;
-  
+  padding: 5px;  
 }
+
+.card-body a {
+  float: right;  
+}
+
+
+.card {
+  height: 200px;
+  padding: 5px;
+}
+
 
 .about-main {
   width: 90%;
@@ -100,6 +111,21 @@
   margin-right: 50px;
 }
 
+
 .hobbies {
   display: block;
 }
+
+.hobbies h3 {
+  margin-top: 150px;
+}
+
+h4 {
+  margin-top: 40px;
+}
+
+.img-thumbnail {
+  height: 200px;
+}
+
+
