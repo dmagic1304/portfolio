@@ -26,8 +26,11 @@ _This website was created by for purpose of showcasing my coding portfolio in or
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _Aligning on GitHub buttons does not work properly_
+
+## GitHub Pages
+
+[https://dmagic1304.github.io/portfolio/](https://dmagic1304.github.io/portfolio/)
 
 ## License
 
