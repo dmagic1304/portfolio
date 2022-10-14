@@ -76,3 +76,7 @@
   margin-right: 10%;
 }
 
+.card-body p {
+  text-align: justify;
+  
+}
