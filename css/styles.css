@@ -100,27 +100,42 @@ body {
   font-size: large; 
 }
 
+.main-body {
+  width: 80%;
+  margin: auto;
+}
+
 .portfolio {
   font-weight: bold;
   font-style: oblique;
   color: aqua;
 }
 
+.card {
+  background: none;
+  height: 200px;
+  padding: 5px;
+  border: none;
+}
+
 .card-body p {
   text-align: justify;
-  padding: 5px;  
+  padding: 5px;
 }
 
 .card-body a {
   float: right;  
 }
 
-
-.card {
-  height: 200px;
-  padding: 5px;
+.project {
+  border: double;
+  background-color: rgba(250, 246, 241, 0.738);
 }
 
+.project a img {
+  float: right;
+  width: 60%;
+}
 
 .about-main {
   width: 90%;
