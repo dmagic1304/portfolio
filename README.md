@@ -26,7 +26,7 @@ _This website was created by for purpose of showcasing my coding portfolio in or
 
 ## Known Bugs
 
-* _Aligning on GitHub buttons does not work properly_
+* _Technologies used list not lining up_
 
 ## GitHub Pages
 
