@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -154,12 +155,28 @@ body {
   margin-top: 40px;
 }
 
-.hobbies {
+.experience {
   display: block;
+  margin-bottom: 150px;
+  width: fit-content;
+  border: double;
+  background-color: rgba(250, 246, 241, 0.738);  
+  justify-content: end;
 }
 
-.hobbies h3 {
-  margin-top: 150px;
+
+
+.hobbies {
+  display: block;
+  border: double;
+  background-color: rgba(250, 246, 241, 0.738);
+  padding: 0;
+  height: fit-content;
+  padding: 10px;
+}
+
+.hobbies ul {
+  padding-left: 20px;
 }
 
 .img-thumbnail {
